@@ -1,0 +1,22 @@
+3 10 6 4
+Building_29 Main_Hospital Medical_Service_Center
+1110 Basem Sami
+1111 Sara Omer
+1112 Ali Altalhi
+1113 Banan Almutairi
+1114 Asma Alzahrani
+1115 Turkey Aljedaani
+1116 Adel Alsolami
+1117 Showq Sharaf
+1118 Ghadah Mohammed
+1119 Abdullah Algarni
+1120 Tahani Alharthi
+1121 Anas Batarfi
+1122 Mohammed Alamri
+1123 Ramzi Alghamdi
+1124 Hajar Alharbi
+1125 Salma Aljohani
+1126 Doaa Alharthi
+1127 Taghreed Alsomairi
+1128 Afraa Rashid
+1129 Hasan Asiri

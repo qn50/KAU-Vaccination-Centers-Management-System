@@ -1,0 +1,236 @@
+
+        Welcome to the KAU Vaccination Centers Management System
+       ---------------------------------------------------------
+The vaccination centers are:
+   Building 29
+   Main Hospital
+   Medical Service Center
+
+The first distribution for health practitioners among the vaccination centers 
+===================================================================================================
+
+       Building 29		    Main Hospital	     Medical Service Center
+
+--------------------------------------------------------------------------------------------------
+1110 Basem Sami , Exist  	1120 Tahani Alharthi , Exist  	1126 Doaa Alharthi , Exist  	
+1111 Sara Omer , Exist  	1121 Anas Batarfi , Exist  	1127 Taghreed Alsomairi , Exist  	
+1112 Ali Altalhi , Exist  	1122 Mohammed Alamri , Exist  	1128 Afraa Rashid , Exist  	
+1113 Banan Almutairi , Exist  	1123 Ramzi Alghamdi , Exist  	1129 Hasan Asiri , Exist  	
+1114 Asma Alzahrani , Exist  	1124 Hajar Alharbi , Exist  	 
+1115 Turkey Aljedaani , Exist  	1125 Salma Aljohani , Exist  	 
+1116 Adel Alsolami , Exist  	  
+1117 Showq Sharaf , Exist  	  
+1118 Ghadah Mohammed , Exist  	  
+1119 Abdullah Algarni , Exist  	  
+===================================================================================================
+
+Number of practitioners in center 1: 10
+===================================================================================================
+
+Number of practitioners in center 2: 6
+===================================================================================================
+
+Number of practitioners in center 3: 4
+===================================================================================================
+
+          
+Not found any practitioners of the status Moved
+===================================================================================================
+          
+Not found any practitioners of the status Left
+===================================================================================================
+          
+        The practitioners of status Exist are
+        -------------------------------------
+
+       Building 29		    Main Hospital	     Medical Service Center
+
+--------------------------------------------------------------------------------------------------
+1110 Basem Sami , Exist  	1120 Tahani Alharthi , Exist  	1126 Doaa Alharthi , Exist  	
+1111 Sara Omer , Exist  	1121 Anas Batarfi , Exist  	1127 Taghreed Alsomairi , Exist  	
+1112 Ali Altalhi , Exist  	1122 Mohammed Alamri , Exist  	1128 Afraa Rashid , Exist  	
+1113 Banan Almutairi , Exist  	1123 Ramzi Alghamdi , Exist  	1129 Hasan Asiri , Exist  	
+1114 Asma Alzahrani , Exist  	1124 Hajar Alharbi , Exist  	 
+1115 Turkey Aljedaani , Exist  	1125 Salma Aljohani , Exist  	 
+1116 Adel Alsolami , Exist  	  
+1117 Showq Sharaf , Exist  	  
+1118 Ghadah Mohammed , Exist  	  
+1119 Abdullah Algarni , Exist  	  
+===================================================================================================
+
+Not found any practitioners of the status Moved in center 2
+===================================================================================================
+
+Not found any practitioners of the status Left in center 3
+===================================================================================================
+
+	The practitioners of status Exist in center 1 are
+        -------------------------------------------------
+
+      			 Building 29
+
+-----------------------------------------------------
+		1110 Basem Sami , Exist  	
+		1111 Sara Omer , Exist  	
+		1112 Ali Altalhi , Exist  	
+		1113 Banan Almutairi , Exist  	
+		1114 Asma Alzahrani , Exist  	
+		1115 Turkey Aljedaani , Exist  	
+		1116 Adel Alsolami , Exist  	
+		1117 Showq Sharaf , Exist  	
+		1118 Ghadah Mohammed , Exist  	
+		1119 Abdullah Algarni , Exist  	
+=======================================================
+
+The practitioner of id 1112 is left
+
+	The practitioners of center 1 are
+        -------------------------------------------------
+
+      			 Building 29
+
+-----------------------------------------------------
+		1110 Basem Sami , Exist  	
+		1111 Sara Omer , Exist  	
+		1112 Ali Altalhi , Left   	
+		1113 Banan Almutairi , Exist  	
+		1114 Asma Alzahrani , Exist  	
+		1115 Turkey Aljedaani , Exist  	
+		1116 Adel Alsolami , Exist  	
+		1117 Showq Sharaf , Exist  	
+		1118 Ghadah Mohammed , Exist  	
+		1119 Abdullah Algarni , Exist  	
+=======================================================
+
+The practitioner of id 1117 is left
+
+	The practitioners of center 1 are
+        -------------------------------------------------
+
+      			 Building 29
+
+-----------------------------------------------------
+		1110 Basem Sami , Exist  	
+		1111 Sara Omer , Exist  	
+		1112 Ali Altalhi , Left   	
+		1113 Banan Almutairi , Exist  	
+		1114 Asma Alzahrani , Exist  	
+		1115 Turkey Aljedaani , Exist  	
+		1116 Adel Alsolami , Exist  	
+		1117 Showq Sharaf , Left   	
+		1118 Ghadah Mohammed , Exist  	
+		1119 Abdullah Algarni , Exist  	
+=======================================================
+
+        The Practitioner of id 1129 is moved to center 2
+	------------------------------------------------
+       Building 29		    Main Hospital	     Medical Service Center
+
+--------------------------------------------------------------------------------------------------
+1110 Basem Sami , Exist  	1120 Tahani Alharthi , Exist  	1126 Doaa Alharthi , Exist  	
+1111 Sara Omer , Exist  	1121 Anas Batarfi , Exist  	1127 Taghreed Alsomairi , Exist  	
+1112 Ali Altalhi , Left   	1122 Mohammed Alamri , Exist  	1128 Afraa Rashid , Exist  	
+1113 Banan Almutairi , Exist  	1123 Ramzi Alghamdi , Exist  	 
+1114 Asma Alzahrani , Exist  	1124 Hajar Alharbi , Exist  	 
+1115 Turkey Aljedaani , Exist  	1125 Salma Aljohani , Exist  	 
+1116 Adel Alsolami , Exist  	1129 Hasan Asiri , Moved  	 
+1117 Showq Sharaf , Left   	  
+1118 Ghadah Mohammed , Exist  	  
+1119 Abdullah Algarni , Exist  	  
+===================================================================================================
+
+        The Practitioner of id 1119 is moved to center 3
+	------------------------------------------------
+       Building 29		    Main Hospital	     Medical Service Center
+
+--------------------------------------------------------------------------------------------------
+1110 Basem Sami , Exist  	1120 Tahani Alharthi , Exist  	1126 Doaa Alharthi , Exist  	
+1111 Sara Omer , Exist  	1121 Anas Batarfi , Exist  	1127 Taghreed Alsomairi , Exist  	
+1112 Ali Altalhi , Left   	1122 Mohammed Alamri , Exist  	1128 Afraa Rashid , Exist  	
+1113 Banan Almutairi , Exist  	1123 Ramzi Alghamdi , Exist  	1119 Abdullah Algarni , Moved  	
+1114 Asma Alzahrani , Exist  	1124 Hajar Alharbi , Exist  	 
+1115 Turkey Aljedaani , Exist  	1125 Salma Aljohani , Exist  	 
+1116 Adel Alsolami , Exist  	1129 Hasan Asiri , Moved  	 
+1117 Showq Sharaf , Left   	  
+1118 Ghadah Mohammed , Exist  	  
+   
+===================================================================================================
+
+        The practitioners of center 1 are
+        -------------------------------------------------
+
+     			 Building 29
+
+-----------------------------------------------------
+		1110 Basem Sami , Exist  	
+		1111 Sara Omer , Exist  	
+		1112 Ali Altalhi , Left   	
+		1113 Banan Almutairi , Exist  	
+		1114 Asma Alzahrani , Exist  	
+		1115 Turkey Aljedaani , Exist  	
+		1116 Adel Alsolami , Exist  	
+		1117 Showq Sharaf , Left   	
+		1118 Ghadah Mohammed , Exist  	
+=======================================================
+
+
+        The practitioners of center 2 are
+        -------------------------------------------------
+
+     			 Main Hospital
+
+-----------------------------------------------------
+		1120 Tahani Alharthi , Exist  	
+		1121 Anas Batarfi , Exist  	
+		1122 Mohammed Alamri , Exist  	
+		1123 Ramzi Alghamdi , Exist  	
+		1124 Hajar Alharbi , Exist  	
+		1125 Salma Aljohani , Exist  	
+		1129 Hasan Asiri , Moved  	
+=======================================================
+
+	All left Practitioners are moved to new linked list
+	---------------------------------------------------
+   1112 Ali Altalhi , Left   	
+   1117 Showq Sharaf , Left   	
+
+        The remaining practitioners After remove the practitioners of status left
+	------------------------------------------------
+       Building 29		    Main Hospital	     Medical Service Center
+
+--------------------------------------------------------------------------------------------------
+1110 Basem Sami , Exist  	1120 Tahani Alharthi , Exist  	1126 Doaa Alharthi , Exist  	
+1111 Sara Omer , Exist  	1121 Anas Batarfi , Exist  	1127 Taghreed Alsomairi , Exist  	
+1113 Banan Almutairi , Exist  	1122 Mohammed Alamri , Exist  	1128 Afraa Rashid , Exist  	
+1114 Asma Alzahrani , Exist  	1123 Ramzi Alghamdi , Exist  	1119 Abdullah Algarni , Moved  	
+1115 Turkey Aljedaani , Exist  	1124 Hajar Alharbi , Exist  	 
+1116 Adel Alsolami , Exist  	1125 Salma Aljohani , Exist  	 
+1118 Ghadah Mohammed , Exist  	1129 Hasan Asiri , Moved  	 
+   
+   
+   
+===================================================================================================
+
+ 			Center 1 is Closed
+===================================================================================================
+
+			The remaing centers ar merged
+
+--------------------------------------------------------------------------------------------------
+1120 Tahani Alharthi , Exist  	
+1121 Anas Batarfi , Exist  	
+1122 Mohammed Alamri , Exist  	
+1123 Ramzi Alghamdi , Exist  	
+1124 Hajar Alharbi , Exist  	
+1125 Salma Aljohani , Exist  	
+1129 Hasan Asiri , Moved  	
+1126 Doaa Alharthi , Exist  	
+1127 Taghreed Alsomairi , Exist  	
+1128 Afraa Rashid , Exist  	
+1119 Abdullah Algarni , Moved  	
+===================================================================================================
+
+			-------------------------------------  
+	   	       |	     Good Bye                 |
+                        -------------------------------------                         
+
